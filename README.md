@@ -1,2 +1,6 @@
 # busqueda_profundidad
- Busqueda de profundidad para el juego de Pancakes
+ Busqueda de profundidad para IA I
+
+## INTEGRANTES:
+- Negrete Ojeda, Ivan Alberto
+- Ortega Sánchez, Jesús David
